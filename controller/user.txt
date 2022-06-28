@@ -1,1 +1,5 @@
 /*Ini halaman untuk fungsional program*/
+
+1. Fungsi Register
+2. Fungsi Login
+3. Fungsi Update Profile

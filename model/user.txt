@@ -1,1 +1,4 @@
 /*Ini halaman untuk pengambilan data dari DB*/
+
+1. Simpan Data Register
+2. Cek Data Login

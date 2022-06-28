@@ -1,1 +1,4 @@
 /*Ini halaman untuk tampilan program pada user*/
+
+1. Halaman Register
+2. Halaman login
