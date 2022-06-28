@@ -2,3 +2,4 @@
 
 1. Simpan Data Register
 2. Cek Data Login
+3. Cek Data user sudah terdaftar

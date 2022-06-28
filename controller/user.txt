@@ -3,3 +3,4 @@
 1. Fungsi Register
 2. Fungsi Login
 3. Fungsi Update Profile
+4. Fungsi Lupa Password
